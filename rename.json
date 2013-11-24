@@ -1,0 +1,5 @@
+{
+  "bin/name.js": "bin/{%= name %}.js",
+  "lib/name.js": "lib/{%= name %}.js",
+  "test/lib/name.js": "test/lib/{%= name %}.js"
+}
