@@ -43,7 +43,7 @@ exports.template = function(grunt, init, done) {
     init.prompt('author_url'),
     init.prompt('node_version', '>= 0.8.0'),
     init.prompt('main'),
-    init.prompt('npm_test', 'grunt nodeunit'),
+    init.prompt('npm_test', 'grunt'),
     {
       name: 'travis',
       message: 'Will this project be tested with Travis CI?',
