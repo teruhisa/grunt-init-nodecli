@@ -1,4 +1,4 @@
-# grunt-init-node
+# grunt-init-nodecli
 
 > Create a Node.js CLI tool with [grunt-init][], including Mocha unit tests.
 
